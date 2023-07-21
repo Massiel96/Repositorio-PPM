@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1686944650 source:c:\users\user name gpt\desktop\2023-c2\ppm-2023-c-2\ejercicios en clase\clase hoy\main.c
+	<stdio.h>
+	<string.h>
+
+1686945298 source:c:\users\user name gpt\desktop\2023-c2\ppm-2023-c-2\tareas a subir\capitulo 8\clase hoy 8.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
