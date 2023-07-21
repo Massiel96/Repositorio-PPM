@@ -1,0 +1,5 @@
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\lite\lite\obj\Debug\net6.0\lite.csproj.AssemblyReference.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\lite\lite\obj\Debug\net6.0\lite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\lite\lite\obj\Debug\net6.0\lite.AssemblyInfoInputs.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\lite\lite\obj\Debug\net6.0\lite.AssemblyInfo.cs
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\lite\lite\obj\Debug\net6.0\lite.csproj.CoreCompileInputs.cache
