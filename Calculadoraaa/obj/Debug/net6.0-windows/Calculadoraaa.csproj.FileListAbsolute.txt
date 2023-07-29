@@ -1,0 +1,17 @@
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\bin\Debug\net6.0-windows\Calculadoraaa.exe
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\bin\Debug\net6.0-windows\Calculadoraaa.deps.json
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\bin\Debug\net6.0-windows\Calculadoraaa.runtimeconfig.json
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\bin\Debug\net6.0-windows\Calculadoraaa.dll
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\bin\Debug\net6.0-windows\Calculadoraaa.pdb
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.csproj.AssemblyReference.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.Form1.resources
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.csproj.GenerateResource.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.AssemblyInfoInputs.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.AssemblyInfo.cs
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.csproj.CoreCompileInputs.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.dll
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\refint\Calculadoraaa.dll
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.pdb
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\Calculadoraaa.genruntimeconfig.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\C# Tareasd de visual estudio\Calculadoraaa\obj\Debug\net6.0-windows\ref\Calculadoraaa.dll
