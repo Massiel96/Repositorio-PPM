@@ -1,0 +1,15 @@
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\bin\Debug\net6.0\Massiel Emergencia 911.exe
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\bin\Debug\net6.0\Massiel Emergencia 911.deps.json
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\bin\Debug\net6.0\Massiel Emergencia 911.runtimeconfig.json
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\bin\Debug\net6.0\Massiel Emergencia 911.dll
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\bin\Debug\net6.0\Massiel Emergencia 911.pdb
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.csproj.AssemblyReference.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.AssemblyInfoInputs.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.AssemblyInfo.cs
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.csproj.CoreCompileInputs.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.dll
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\refint\Massiel Emergencia 911.dll
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.pdb
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\Massiel Emergencia 911.genruntimeconfig.cache
+C:\Users\USER NAME GPT\Desktop\2023-C2\PPM-2023-C-2\Last Progrma to PPM C#\Massiel Emergencia 911\obj\Debug\net6.0\ref\Massiel Emergencia 911.dll
